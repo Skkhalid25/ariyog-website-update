@@ -1,0 +1,23 @@
+{
+  "name": "public_html",
+  "version": "1.0.0",
+  "main": "detatype.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Skkhalid25/ariyog-website-update.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Skkhalid25/ariyog-website-update/issues"
+  },
+  "homepage": "https://github.com/Skkhalid25/ariyog-website-update#readme",
+  "description": "",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
